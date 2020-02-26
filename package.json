@@ -1,0 +1,40 @@
+{
+  "name": "deep-pick-by",
+  "version": "1.0.0",
+  "description": "Recursively pick an object or an array by given criteria.",
+  "homepage": "https://github.com/shuaibird/deep-pick-by",
+  "bugs": {
+    "url": "https://github.com/shuaibird/deep-pick-by/issues",
+    "email": "shuaibird@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuaibird/deep-pick-by"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keys",
+    "nested",
+    "object",
+    "properties",
+    "props",
+    "recurse",
+    "recursively",
+    "deep",
+    "pick",
+    "pickby",
+    "lodash"
+  ],
+  "author": {
+    "name": "shuaibird",
+    "email": "shuaibird@icloud.com",
+    "url": "https://github.com/shuaibird"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
